@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+    max-width: 75rem;
+}
+
+.bgcolor{
+    background-color: #679509;
+}
+
+.fontfam{
+    font-family: 'Pacifico', cursive;
+}
+
+.hovermenu:hover{
+    color: #679509;
+}
+
+.text-font{
+    font-family: 'Poppins', sans-serif;
+}
+.text-font-1{
+    font-family: "Pacifico", Sans-serif;
+}
+
+.nav_bar ul li:hover ul {
+    display: block;
+    
+}
+
+.hovermenu2:hover{
+    color: #61CE70;
+}
+
+.textcolor{
+    color: #72a50b;
+}
+
+.overlay {
+    transition: .5s ease;
+  }
+  .ovshow:hover .overlay {
+    height: 90px;
+  }
+
+  .hovef:hover{
+      background-color:#679509;
+  }
+
+  .fontfam2{
+    font-family: "PT Sans", Sans-serif;
+  }
+
+  .buttonback{
+    background-color: #679509;
+  }
+  .bottom-10px{
+      bottom: 10px;
+  }
+
+  .overlay2 {
+    transition: .5s ease;
+  }
+  .ovshow2:hover .overlay2 {
+    height: 90px;
+  }
+  
+
+  
+
